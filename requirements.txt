@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+chromadb
+beautifulsoup4
+requests
+openai
+togetherai
+pplx
